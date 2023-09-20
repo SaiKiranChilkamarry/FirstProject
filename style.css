@@ -5,6 +5,9 @@
     padding: 0;
     margin: 0;
 }
+body{
+    background: linear-gradient(45deg, #ff5733, #ffa133, #ffdc33);
+}
 
 .container{
     display: grid;
